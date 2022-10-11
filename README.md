@@ -1,1 +1,1 @@
-# DBMS_labs
+# DBMS_lab1
