@@ -1,6 +1,7 @@
-# DBMS_lab1
-[Google Docs](https://docs.google.com/document/d/1Wsg9Q-v-VfCXIXamZL2kAy7ChUDGt8m9IAEbR4YgIkA/edit#)
+Лабораторна робота 1
+з дисципліни "Бази даних та засоби управління"
 
-[Створення діаграми "Сутність-зв'язок" (draw.io.com)](https://app.diagrams.net/)
+студента групи КВ-02
+Вознюка Борислава
 
-[Створення схеми бази даних (sqldbm.com)](https://sqldbm.com/Home/)
+Київ 2022
